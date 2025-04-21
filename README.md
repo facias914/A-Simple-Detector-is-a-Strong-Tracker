@@ -43,7 +43,7 @@ Finally, based on the cross-validation splits and the sampling results, write a 
 
 ### Methods
 #### 1.Frame Dynamics
-Determine the target dataset to be used, and convert both its training and validation sets into the required format.
+Determine the target dataset to be used, and convert both its training and validation sets into the required format(Yolo or MMdet format).
 Select one of the two: generate an optical flow or frame difference dataset for training.
 ```shell
 python yolo11/scripts/gen_frame_diff.py  # frame difference
@@ -52,7 +52,7 @@ python yolo11/scripts/gen_optical_flow.py  # optical flow
 ```
 #### 2.TC-Filtering
 TC-Filtering can be applied either during the post-processing stage of object detection inference or at the final model ensembling stage. 
-Here, we only provide the code for model fusion. First, the detection results that need to be fused and the data that needs to be inferred should be organized into the given format (./TC_Filtering/results).
+Here, we only provide the code for model results ensemble. First, the detection results that need to be fused and the data that needs to be inferred should be organized into the given format (./TC_Filtering/results).
 Then, run the following code according to your own requirements:
 ```shell
 python ./TC_Filtering/code_concat.py
