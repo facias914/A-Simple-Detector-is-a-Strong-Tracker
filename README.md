@@ -46,9 +46,9 @@ Finally, based on the cross-validation splits and the sampling results, write a 
 Determine the target dataset to be used, and convert both its training and validation sets into the required format(Yolo or MMdet format).
 Select one of the two: generate an optical flow or frame difference dataset for training.
 ```shell
-python yolo11/scripts/gen_frame_diff.py  # frame difference
+python ./Data/gen_frame_diff.py  # frame difference
 # or
-python yolo11/scripts/gen_optical_flow.py  # optical flow
+python ./Data/gen_optical_flow.py  # optical flow
 ```
 #### 2.TC-Filtering
 TC-Filtering can be applied either during the post-processing stage of object detection inference or at the final model ensembling stage. 
