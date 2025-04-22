@@ -7,6 +7,7 @@
 ![arch](assets/pipeline.png)
 
 ### News
+- `2025/04/21`: We released the code publicly.
 - `2025/03/10`: We achieved first place in Track 1 and second place in Track 2 of the 4th Anti-UAV Competition (CVPRW 2025)!
 
 ### Dataset Preparation
