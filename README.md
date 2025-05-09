@@ -1,4 +1,4 @@
-## A Simple Detector with Frame Dynamics is a Strong Tracker
+## A Simple Detector with Frame Dynamics is a Strong Tracker [![paper](https://img.shields.io/badge/arXiv-2505.04917-brown.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.04917)
 
 > **[A Simple Detector with Frame Dynamics is a Strong Tracker]**</br>
 > Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li</br>
