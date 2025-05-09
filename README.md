@@ -70,13 +70,23 @@ conda create -n your_name python==3.10 -y
 conda activate your_name
 python -m pip install -r requirements.txt
 ```
+### Citation
 
-<!-- ## Citation
+If you use this in your research, please cite this project.
+
 ```bibtex
+@article{peng2025a,
+	title={A Simple Detector with Frame Dynamics is a Strong Tracker},
+	author={Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li},
+	journal={arXiv preprint arXiv:2505.04917},
+	year={2025}
+}
+
 @article{peng2025a,
   title={A Simple Detector with Frame Dynamics is a Strong Tracker},
   author={Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li},
   booktitle={CVPRW},
   year={2025}
 }
-``` -->
+
+```
