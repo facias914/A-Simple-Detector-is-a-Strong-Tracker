@@ -1,6 +1,6 @@
 ## A Simple Detector with Frame Dynamics is a Strong Tracker
 
-> **[A Simple Detector with Frame Dynamics is a Strong Tracker][![paper](https://img.shields.io/badge/arXiv-2501.04440-brown.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.04440)**</br>
+> **[A Simple Detector with Frame Dynamics is a Strong Tracker]**</br>
 > Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li</br>
 > *In The 4th Anti-UAV Workshop (CVPRW), 2025*
 
