@@ -3,7 +3,7 @@
 > **[A Simple Detector with Frame Dynamics is a Strong Tracker]**</br>
 > Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li</br>
 > *In The 4th Anti-UAV Workshop (CVPRW), 2025*
-
+[[中文解读](https://zhuanlan.zhihu.com/p/1898471813731816565)]
 ![arch](assets/pipeline.png)
 
 ### News
